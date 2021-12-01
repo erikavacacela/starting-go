@@ -5,3 +5,9 @@
 ```
     go run main.go
 ```
+
+### Create a compile version of program
+
+```
+    go build -o eliza main.go
+```
